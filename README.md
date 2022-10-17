@@ -1,4 +1,4 @@
-# AWS-Amazon-Sagemaker-Autopilot-Train-BERT-Model-for-customer-feedbacks
+# AWS-Sagemaker-Autopilot-Train-BERT-Model-for-customer-feedbacks
 
 ### Introduction
 In this project, Amazon Sagemaker Autopilot is used to train a BERT (NLP) model. The model analyzed customer feedback and classify the messages into positive (1), neutral (0) and negative (-1) sentiment.
